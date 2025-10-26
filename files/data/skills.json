@@ -1,0 +1,38 @@
+[
+  { "name": "TypeScript", "category": "Language", "icon": "typescript" },
+  { "name": "JavaScript", "category": "Language", "icon": "javascript" },
+  { "name": "PHP", "category": "Language", "icon": "php" },
+  { "name": "Shell Script", "category": "Language", "icon": "bash" },
+  { "name": "React", "category": "Frontend & Backend", "icon": "react" },
+  {
+    "name": "Tailwind CSS",
+    "category": "Frontend & Backend",
+    "icon": "tailwindcss"
+  },
+  { "name": "Express", "category": "Frontend & Backend", "icon": "express" },
+  { "name": "Next.js", "category": "Framework", "icon": "nextdotjs" },
+  { "name": "CodeIgniter", "category": "Framework", "icon": "codeigniter" },
+  { "name": "Laravel", "category": "Framework", "icon": "laravel" },
+  {
+    "name": "Expo",
+    "category": "Framework",
+    "icon": "expo"
+  },
+  { "name": "MySQL", "category": "Database", "icon": "mysql" },
+  { "name": "SQLite", "category": "Database", "icon": "sqlite" },
+  { "name": "Supabase", "category": "Database", "icon": "supabase" },
+  { "name": "Cisco", "category": "Networking", "icon": "cisco" },
+  { "name": "MikroTik", "category": "Networking", "icon": "mikrotik" },
+  { "name": "WireShark", "category": "Networking", "icon": "wireshark" },
+  { "name": "NPM", "category": "Package Manager", "icon": "npm" },
+  { "name": "Composer", "category": "Package Manager", "icon": "composer" },
+  { "name": "Zsh", "category": "Terminals", "icon": "zsh" },
+  { "name": "Bash", "category": "Terminals", "icon": "bash" },
+  { "name": "Powershell", "category": "Terminals", "icon": "pwsh" },
+  { "name": "Git", "category": "Tools", "icon": "git" },
+  { "name": "Postman", "category": "Tools", "icon": "postman" },
+  { "name": "Java", "category": "Learning", "icon": "java" },
+  { "name": "C++", "category": "Learning", "icon": "cplusplus" },
+  { "name": "Docker", "category": "Learning", "icon": "docker" },
+  { "name": "Kubernetes", "category": "Learning", "icon": "kubernetes" }
+]

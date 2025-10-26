@@ -1,0 +1,17 @@
+# Ignore everything
+/*
+
+# But keep the files folder itself
+!/files/
+
+# Ignore everything inside files by default
+/files/*
+
+# Keep only specific folders inside files
+!/files/data/
+!/files/images/
+
+# Keep essential root files
+!.gitignore
+!README.md
+!LICENSE

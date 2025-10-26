@@ -1,0 +1,105 @@
+[
+  {
+    "title": "QRIS Dynamicify App",
+    "category": "Mobile",
+    "description": {
+      "en": "A mobile cashier (POS) app to create Dynamic QRIS from Static QRIS.",
+      "id": "Aplikasi kasir (POS) mobile untuk membuat QRIS Dinamis dari QRIS Statis."
+    },
+    "detail": {
+      "en": "A mobile application (Android) currently in development, designed to function as a cashier system (POS). Its main feature is the ability to instantly generate <strong>Dynamic QRIS</strong> from Static QRIS, simplifying the payment process. This app is built using <strong>React Native</strong> and <strong>Expo</strong>, leveraging the `qris-dynamicify` library for its core functionality.",
+      "id": "Sebuah aplikasi mobile (Android) yang masih dalam tahap pengembangan, dirancang untuk berfungsi sebagai sistem kasir (POS). Fitur utamanya adalah kemampuan untuk menghasilkan <strong>QRIS Dinamis</strong> dari QRIS Statis secara instan, mempermudah proses pembayaran. Aplikasi ini dibangun menggunakan <strong>React Native</strong> dan <strong>Expo</strong>, serta memanfaatkan library `qris-dynamicify` untuk fungsionalitas intinya."
+    },
+    "tech": ["React Native", "TypeScript", "Expo"],
+    "image": "/images/projects/qris-dynamicify.webp",
+    "screenshot": [
+      "/images/projects/qris-dynamicify-app/login.webp",
+      "/images/projects/qris-dynamicify-app/home.webp",
+      "/images/projects/qris-dynamicify-app/create.webp",
+      "/images/projects/qris-dynamicify-app/upload.webp",
+      "/images/projects/qris-dynamicify-app/status.webp"
+    ]
+  },
+  {
+    "title": "qris-dynamicify",
+    "category": "Library",
+    "description": {
+      "en": "A TypeScript library to convert Static QRIS into Dynamic QRIS.",
+      "id": "Library TypeScript untuk mengonversi QRIS Statis menjadi QRIS Dinamis."
+    },
+    "detail": {
+      "en": "A lightweight and efficient <strong>TypeScript</strong> library for converting Static QRIS payloads into <strong>Dynamic QRIS</strong>. This library allows developers to easily add specific payment amounts to existing QR codes. Check the <strong>repository</strong> and <strong>demo</strong> for more information.",
+      "id": "Sebuah library <strong>TypeScript</strong> yang ringan dan efisien untuk mengonversi payload QRIS Statis menjadi <strong>QRIS Dinamis</strong>. Library ini memungkinkan developer untuk dengan mudah menambahkan nominal pembayaran spesifik ke QR code yang ada. Cek <strong>repository</strong> dan <strong>demo</strong> untuk informasi lebih lanjut."
+    },
+    "tech": ["TypeScript"],
+    "image": "/images/projects/qris-dynamicify.webp",
+    "screenshot": [],
+    "repo": "https://github.com/XanderID/qris-dynamicify",
+    "demo": "https://xanderid.github.io/qris-dynamicify/"
+  },
+  {
+    "title": "Carbon Now Scraper",
+    "category": "Library",
+    "description": {
+      "en": "A Puppeteer scraper to create images from code using `carbon.now.sh`.",
+      "id": "Scraper Puppeteer untuk membuat gambar dari kode menggunakan `carbon.now.sh`."
+    },
+    "detail": {
+      "en": "This library acts as a scraper for `carbon.now.sh`. Created due to the <strong>lack of an official API</strong> from Carbon, this library allows for programmatically converting code snippets into images using <strong>Puppeteer</strong>.",
+      "id": "Library ini berfungsi sebagai *scraper* untuk `carbon.now.sh`. Dibuat karena <strong>tidak adanya API resmi</strong> dari Carbon, library ini memungkinkan konversi *snippet* kode menjadi gambar secara terprogram menggunakan <strong>Puppeteer</strong>."
+    },
+    "tech": ["JavaScript", "Puppeteer"],
+    "image": "/images/projects/carbon-now-scraper.webp",
+    "screenshot": [],
+    "repo": "https://github.com/XanderID/carbon-now-Scraper"
+  },
+  {
+    "title": "X-DRPC",
+    "category": "Automation",
+    "description": {
+      "en": "A Discord selfbot automation for custom Rich Presence that runs 24/7.",
+      "id": "Otomatisasi selfbot Discord untuk Rich Presence kustom yang berjalan 24/7."
+    },
+    "detail": {
+      "en": "An automation project for <strong>Discord Rich Presence (DRPC)</strong> using a selfbot. This application allows users to display detailed custom statuses on their Discord profile <strong>without any additional apps</strong>. It comes with full settings and is designed to run <strong>24/7</strong>.",
+      "id": "Proyek otomatisasi untuk <strong>Discord Rich Presence (DRPC)</strong> menggunakan *selfbot*. Aplikasi ini memungkinkan pengguna untuk menampilkan status kustom yang detail di profil Discord mereka <strong>tanpa aplikasi tambahan</strong>. Dilengkapi dengan pengaturan penuh dan dirancang untuk dapat berjalan <strong>24/7</strong>."
+    },
+    "tech": ["Next.js", "Node.js", "PostgreSQL"],
+    "image": "",
+    "screenshot": [],
+    "repo": "https://github.com/XanderID/X-DRPC"
+  },
+  {
+    "title": "qris-dynamicify-php",
+    "category": "Library",
+    "description": {
+      "en": "A PHP version of the `qris-dynamicify` library for Laravel/CodeIgniter.",
+      "id": "Versi PHP dari library `qris-dynamicify` untuk Laravel/CodeIgniter."
+    },
+    "detail": {
+      "en": "This is a <i>port</i> of the `qris-dynamicify` (TypeScript) library to the <strong>PHP</strong> language. This library was created so that the Static to Dynamic QRIS conversion functionality can be easily implemented within popular PHP frameworks like <strong>Laravel</strong> and <strong>CodeIgniter</strong>.",
+      "id": "Ini adalah *porting* dari library `qris-dynamicify` (TypeScript) ke bahasa <strong>PHP</strong>. Library ini dibuat agar fungsionalitas konversi QRIS Statis ke Dinamis dapat dengan mudah diimplementasikan di dalam *framework* PHP populer seperti <strong>Laravel</strong> dan <strong>CodeIgniter</strong>."
+    },
+    "tech": ["TypeScript"],
+    "image": "/images/projects/qris-dynamicify.webp",
+    "screenshot": [],
+    "repo": "https://github.com/XanderID/qris-dynamicify",
+    "demo": "https://xanderid.github.io/qris-dynamicify/"
+  },
+  {
+    "title": "XWapp",
+    "category": "Automation",
+    "description": {
+      "en": "A TypeScript WhatsApp bot framework with migrations, seeders, and hot reload.",
+      "id": "Framework bot WhatsApp TypeScript dengan fitur migration, seeder, dan hot reload."
+    },
+    "detail": {
+      "en": "A framework for building WhatsApp bots that is still under active development. Built entirely with <strong>TypeScript</strong>, this framework is designed with modern features like <strong>migrations</strong>, <strong>seeders</strong>, and a <strong>CLI tool</strong>. One of its key features is <strong>hot reload</strong> for commands and events, speeding up the development process.",
+      "id": "Sebuah *framework* untuk membangun bot WhatsApp yang masih dalam pengembangan aktif. Dibangun sepenuhnya dengan <strong>TypeScript</strong>, *framework* ini dirancang dengan fitur-fitur modern seperti <strong>migration</strong>, <strong>seeder</strong>, dan <strong>CLI tool</strong>. Salah satu fitur unggulannya adalah <strong>hot reload</strong> untuk *commands* dan *events*, mempercepat proses development."
+    },
+    "tech": ["TypeScript", "Baileys", "whatsapp-web.js"],
+    "image": "",
+    "screenshot": [],
+    "repo": "https://github.com/XanderID/XWapp"
+  }
+]

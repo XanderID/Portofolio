@@ -1,9 +1,5 @@
-# Portofolio
+# Portfolio Data
 
-This repository is only for my Portfolio Page which I created from scratch but technically not from scratch because it uses ReactJS and TailwindCSS.
+This branch serves as a static data store for the main portfolio website.
 
-## Todo
-
-* [ ] Modal for Detail Projects
-* [ ] Other Content
-  
+It does not contain the application's source code, but rather the data (JSON files, images, etc.) that the React application fetches.
